@@ -6,7 +6,7 @@ Welcome to the Heart Disease Prediction project repository. This project is aime
 
 ## Objective
 ```
-    The main objective of this project is to create a predictive model that can help identify individuals at a higher risk of heart disease. By analyzing a dataset of health parameters, we aim to build accurate models that can assist in early detection and intervention.
+The main objective of this project is to create a predictive model that can help identify individuals at a higher risk of heart disease. By analyzing a dataset of health parameters, we aim to build accurate models that can assist in early detection and intervention.
 ```
 
 ## Brief Description about the Project
@@ -56,7 +56,7 @@ The following factors or parameters are considered from the CSV file:
 ```
 
 ## Steps Included in this Project
-    ```
+```
     1. Data loading and exploration.
     2. Data preprocessing, including handling outliers, missing values, and duplicates.
     3. Exploratory data analysis (EDA) to gain insights into the dataset.
