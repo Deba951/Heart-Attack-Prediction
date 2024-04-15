@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Attack Prediction
 
 ![node-12045](https://github.com/Deba951/Heart-Attack-Prediction/assets/83878346/0622c508-84fd-4635-9751-82f9a68df723)
 
